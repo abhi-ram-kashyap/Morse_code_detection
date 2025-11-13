@@ -1,7 +1,7 @@
-# Optical Morse Code Decoder (Python + OpenCV + PyQt5)
+# Optical Morse Code Decoder (Python + OpenCV)
 
 This project implements a real-time **Optical Morse Code Decoder** that reads LED blinks through a webcam, classifies DOT and DASH timings, and converts the optical signal into readable English text.  
-A modern PyQt5 GUI displays the video feed, ROI, brightness, threshold slider, and decoded output.
+A modern GUI displays the video feed, ROI, brightness, threshold slider, and decoded output.
 
 ---
 
